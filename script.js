@@ -27,7 +27,7 @@ function launchConfetti() {
 }
 
 // Slideshow
-let photos = ["photo1.jpg", "photo2.jpg", "photo3.jpeg","photo4.jpeg","photo5.jpeg","photo6.jpeg","photo7.jpeg","photo8.jpeg","photo9.jpeg","photo11.jpeg","photo12.jpeg"];
+let photos = ["photo1.jpg", "photo2.jpg", "photo3.jpeg","photo4.jpeg","photo5.jpeg","photo6.jpeg","photo7.jpeg","photo8.jpeg","photo9.jpeg","photo11.jpeg","1st.jpeg"];
 let idx = 0;
 const slide = document.getElementById("slide");
 
